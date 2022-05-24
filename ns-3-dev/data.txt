@@ -1,5 +1,0 @@
-Csma daterate - 100Mbps
-Csma delay - 2
-Time between sending north packets - 0.1
-Time between sending south packets - 0.1
-Reconfiguration time - 10
